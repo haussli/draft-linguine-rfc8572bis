@@ -4,9 +4,9 @@
 
 Internet Engineering Task Force (IETF)                       K.W. Watsen
 Request for Comments: 8572                               Watsen Networks
-Category: Standards Track                                    I.F. Farrer
-ISSN: 2070-1721                                      Deutsche Telekom AG
-                                                        M.A. Abrahamsson
+Updates: RFC8572                                             I.F. Farrer
+Category: Standards Track                            Deutsche Telekom AG
+ISSN: 2070-1721                                         M.A. Abrahamsson
                                                                T-Systems
                                                               April 2019
 

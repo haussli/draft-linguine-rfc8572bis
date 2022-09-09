@@ -23,7 +23,13 @@
 <rfc docName="draft-linguine-rfc8572bis-00"
      category="std"
      ipr="trust200902"
-     number="8572" submissionType="IETF" consensus="yes">
+     number="8572"
+     submissionType="IETF"
+     consensus="yes"
+     sortRefs="true"
+     indexInclude="false"
+     tocDepth="3"
+     updates="RFC8572">
     <front>
         <title abbrev="Secure Zero Touch Provisioning (SZTP)">Secure Zero Touch Provisioning (SZTP)</title>
 
