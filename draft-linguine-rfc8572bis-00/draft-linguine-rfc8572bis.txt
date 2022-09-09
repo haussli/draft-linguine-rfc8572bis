@@ -1605,9 +1605,9 @@ Table of Contents
                type inet:port-number;
                default "443";
                description
-                 "The port number the bootstrap server listens on.  If no
-                  port is specified, the IANA-assigned port for 'https'
-                  (443) is used.";
+                 "The port number the bootstrap server listens on.  If
+                  no port is specified, the IANA-assigned port for
+                  'https' (443) is used.";
              }
              leaf trust-anchor {
                type cms;
